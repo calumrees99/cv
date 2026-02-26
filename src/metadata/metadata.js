@@ -1,28 +1,17 @@
 module.exports = {
-  name: 'William Shakespeare',
-  title: 'Poet, playwright and actor',
+  name: 'Calum Rees',
+  title: 'Platform Engineer',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
-                </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Location': '<a href="https://www.google.com/maps/place/Farnborough/@51.2966381,-0.7580179,17z/data=!3m1!4b1!4m6!3m5!1s0x48742b2c126b03e7:0x287eca87f863216a!8m2!3d51.2966348!4d-0.755443!16s%2Fg%2F12qg393xw?entry=ttu&g_ep=EgoyMDI2MDIyMy4wIKXMDSoASAFQAw%3D%3D"><i class="fa fa-home fact-icon"></i>Farnborough</a>',
+    'LinkedIn': `<a href="https://www.linkedin.com/in/calum-rees-263b7a147/"><i class="fa-brands fa-linkedin fact-icon"></i>Calum Rees</a>`,
+    'GitHub': `<a href="https://github.com/calum-rees"><i class="fa-brands fa-github fact-icon"></i>calumrees999</a>`,
+    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>calumrees99@gmail.com</a>'
   },
-  skills: [
-    ['Comedy', 100],
-    ['Love', 100],
-    ['Theater', 100],
-    ['Tragedy', 100],
-    ['Poetry', 100],
-    ['Erotic', 60],
-    ['Sonnets', 100],
-    ['Plays', 100],
-    ['Writing', 100],
-    ['Directing', 80],
-    ['Literature', 100],
-    ['Influence', 100],
-  ],
+  introduction: ` A platform engineer with over 4 years of experience in consultancy & SaaS environments, designing, building and maintaining cloud
+  platforms for clients across public sector, pharmaceutical, finance and housing industries. I believe in
+  empowering development teams by leveraging self-service and automation, providing paved pathways for product teams to deliver
+  value to customers faster.
+  `,
   positions: [
     {
       title: 'Hamlet',
