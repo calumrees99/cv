@@ -7,10 +7,9 @@ module.exports = {
     'GitHub': `<a href="https://github.com/calum-rees"><i class="fa-brands fa-github fact-icon"></i>calumrees999</a>`,
     'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>calumrees99@gmail.com</a>'
   },
-  introduction: ` A platform engineer with over 4 years of experience in consultancy & SaaS environments, designing, building and maintaining cloud
-  platforms for clients across public sector, pharmaceutical, finance and housing industries. I believe in
-  empowering development teams by leveraging self-service and automation, providing paved pathways for product teams to deliver
-  value to customers faster.
+  introduction: ` Senior Platform Engineer specialising in Azure cloud platforms, infrastructure as code, and platform reliability, with experience delivering and supporting enterprise-scale services across public sector and digital organisation's.
+    Focused on designing and improving cloud platforms that enable engineering teams to deliver reliable, secure, and scalable software services. My work typically centres around platform automation, infrastructure standardisation, observability,
+    and operational excellence, helping teams reduce operational friction and improve service delivery.
   `,
   positions: [
     {
